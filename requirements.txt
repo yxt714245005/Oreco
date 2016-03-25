@@ -1,0 +1,6 @@
+# Python 2.7
+# caffe and its requirements.txt packages
+redis==2.10.3
+six==1.9.0
+Pillow
+scipy
