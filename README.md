@@ -34,11 +34,13 @@ print ret
 
 #### 4、使用效果
 单图片识别效果
+
 ![](http://i.imgur.com/edQw0vq.jpg)
 
 ![](http://i.imgur.com/4IYSypZ.png)
 
 多图片识别效果
+
 ![](http://i.imgur.com/lV647FE.png)
 
 ![](http://i.imgur.com/jwHbDQE.jpg)
